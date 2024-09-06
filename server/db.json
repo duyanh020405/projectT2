@@ -1,0 +1,226 @@
+{
+  "user": [
+    {
+      "id": "x4xz5xfxx",
+      "name": "Duy Anh",
+      "email": "duyanh@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "address": "",
+      "card": "",
+      "buy": "",
+      "blocked": false
+    },
+    {
+      "id": "73ur6irzl",
+      "name": "lạc trôi",
+      "email": "bui0913291882@gmail.com",
+      "password": "123456789",
+      "confirmPassword": "123456789",
+      "address": "",
+      "card": "",
+      "buy": "",
+      "blocked": false
+    }
+  ],
+  "products": [
+    {
+      "id": "fvwvmd7ch",
+      "name": "Áo sơ mi nam trắng đẹp công sở",
+      "price": "10000",
+      "img": "https://th.bing.com/th/id/R.0be99577aaeedd250003851e5773e9c2?rik=%2bmFFOvpx7Br4gg&pid=ImgRaw&r=0",
+      "quantity": "80",
+      "category": "thunpl",
+      "description": "Mẫu Áo Sơ Mi Đẹp Cho Nam: Phong Cách Lịch Lãm Và Tinh Tế"
+    },
+    {
+      "id": "4sztsszef",
+      "name": "Áo sơ mi nam trắng đẹp công sở",
+      "price": "20000",
+      "img": "https://th.bing.com/th/id/R.0be99577aaeedd250003851e5773e9c2?rik=%2bmFFOvpx7Br4gg&pid=ImgRaw&r=0",
+      "quantity": "1000",
+      "category": "somin",
+      "description": "hihi"
+    },
+    {
+      "id": "4sztsszef",
+      "name": "Áo sơ mi nam trắng đẹp công sở",
+      "price": "20000",
+      "img": "https://th.bing.com/th/id/R.0be99577aaeedd250003851e5773e9c2?rik=%2bmFFOvpx7Br4gg&pid=ImgRaw&r=0",
+      "quantity": "1000",
+      "category": "somin",
+      "description": "hihi"
+    },
+    {
+      "id": "4sztsszef",
+      "name": "Áo sơ mi nam trắng đẹp công sở",
+      "price": "20000",
+      "img": "https://th.bing.com/th/id/R.0be99577aaeedd250003851e5773e9c2?rik=%2bmFFOvpx7Br4gg&pid=ImgRaw&r=0",
+      "quantity": "1000",
+      "category": "somin",
+      "description": "hihi"
+    },
+    {
+      "id": "4sztsszef",
+      "name": "Áo sơ mi nam trắng đẹp công sở",
+      "price": "20000",
+      "img": "https://th.bing.com/th/id/R.0be99577aaeedd250003851e5773e9c2?rik=%2bmFFOvpx7Br4gg&pid=ImgRaw&r=0",
+      "quantity": "1000",
+      "category": "somin",
+      "description": "hihi"
+    },
+    {
+      "id": "4sztsszef",
+      "name": "Áo sơ mi nam trắng đẹp công sở",
+      "price": "20000",
+      "img": "https://th.bing.com/th/id/R.0be99577aaeedd250003851e5773e9c2?rik=%2bmFFOvpx7Br4gg&pid=ImgRaw&r=0",
+      "quantity": "1000",
+      "category": "somin",
+      "description": "hihi"
+    },
+    {
+      "id": "4sztsszef",
+      "name": "Áo sơ mi nam trắng đẹp công sở",
+      "price": "20000",
+      "img": "https://th.bing.com/th/id/R.0be99577aaeedd250003851e5773e9c2?rik=%2bmFFOvpx7Br4gg&pid=ImgRaw&r=0",
+      "quantity": "1000",
+      "category": "somin",
+      "description": "hihi"
+    },
+    {
+      "id": "4sztsszef",
+      "name": "Áo sơ mi nam trắng đẹp công sở",
+      "price": "20000",
+      "img": "https://th.bing.com/th/id/R.0be99577aaeedd250003851e5773e9c2?rik=%2bmFFOvpx7Br4gg&pid=ImgRaw&r=0",
+      "quantity": "1000",
+      "category": "somin",
+      "description": "hihi"
+    },
+    {
+      "id": "4sztsszef",
+      "name": "Áo sơ mi nam trắng đẹp công sở",
+      "price": "20000",
+      "img": "https://th.bing.com/th/id/R.0be99577aaeedd250003851e5773e9c2?rik=%2bmFFOvpx7Br4gg&pid=ImgRaw&r=0",
+      "quantity": "1000",
+      "category": "somin",
+      "description": "hihi"
+    },
+    {
+      "id": "4sztsszef",
+      "name": "Áo sơ mi nam trắng đẹp công sở",
+      "price": "20000",
+      "img": "https://th.bing.com/th/id/R.0be99577aaeedd250003851e5773e9c2?rik=%2bmFFOvpx7Br4gg&pid=ImgRaw&r=0",
+      "quantity": "1000",
+      "category": "somin",
+      "description": "hihi"
+    },
+    {
+      "id": "4sztsszef",
+      "name": "Áo sơ mi nam trắng đẹp công sở",
+      "price": "20000",
+      "img": "https://th.bing.com/th/id/R.0be99577aaeedd250003851e5773e9c2?rik=%2bmFFOvpx7Br4gg&pid=ImgRaw&r=0",
+      "quantity": "1000",
+      "category": "somin",
+      "description": "hihi"
+    },
+    {
+      "id": "4sztsszef",
+      "name": "Áo sơ mi nam trắng đẹp công sở",
+      "price": "20000",
+      "img": "https://th.bing.com/th/id/R.0be99577aaeedd250003851e5773e9c2?rik=%2bmFFOvpx7Br4gg&pid=ImgRaw&r=0",
+      "quantity": "1000",
+      "category": "somin",
+      "description": "hihi"
+    },
+    {
+      "id": "4sztsszef",
+      "name": "Áo sơ mi nam trắng đẹp công sở",
+      "price": "20000",
+      "img": "https://th.bing.com/th/id/R.0be99577aaeedd250003851e5773e9c2?rik=%2bmFFOvpx7Br4gg&pid=ImgRaw&r=0",
+      "quantity": "1000",
+      "category": "somin",
+      "description": "hihi"
+    },
+    {
+      "id": "4sztsszef",
+      "name": "Áo sơ mi nam trắng đẹp công sở",
+      "price": "20000",
+      "img": "https://th.bing.com/th/id/R.0be99577aaeedd250003851e5773e9c2?rik=%2bmFFOvpx7Br4gg&pid=ImgRaw&r=0",
+      "quantity": "1000",
+      "category": "somin",
+      "description": "hihi"
+    },
+    {
+      "id": "4sztsszef",
+      "name": "Áo sơ mi nam trắng đẹp công sở",
+      "price": "20000",
+      "img": "https://th.bing.com/th/id/R.0be99577aaeedd250003851e5773e9c2?rik=%2bmFFOvpx7Br4gg&pid=ImgRaw&r=0",
+      "quantity": "1000",
+      "category": "somin",
+      "description": "hihi"
+    },
+    {
+      "id": "4sztsszef",
+      "name": "Áo sơ mi nam trắng đẹp công sở",
+      "price": "20000",
+      "img": "https://th.bing.com/th/id/R.0be99577aaeedd250003851e5773e9c2?rik=%2bmFFOvpx7Br4gg&pid=ImgRaw&r=0",
+      "quantity": "1000",
+      "category": "somin",
+      "description": "hihi"
+    },
+    {
+      "id": "4sztsszef",
+      "name": "Áo sơ mi nam trắng đẹp công sở",
+      "price": "20000",
+      "img": "https://th.bing.com/th/id/R.0be99577aaeedd250003851e5773e9c2?rik=%2bmFFOvpx7Br4gg&pid=ImgRaw&r=0",
+      "quantity": "1000",
+      "category": "somin",
+      "description": "hihi"
+    },
+    {
+      "id": "4sztsszef",
+      "name": "Áo sơ mi nam trắng đẹp công sở",
+      "price": "20000",
+      "img": "https://th.bing.com/th/id/R.0be99577aaeedd250003851e5773e9c2?rik=%2bmFFOvpx7Br4gg&pid=ImgRaw&r=0",
+      "quantity": "1000",
+      "category": "somin",
+      "description": "hihi"
+    },
+    {
+      "id": "4sztsszef",
+      "name": "Áo sơ mi nam trắng đẹp công sở",
+      "price": "20000",
+      "img": "https://th.bing.com/th/id/R.0be99577aaeedd250003851e5773e9c2?rik=%2bmFFOvpx7Br4gg&pid=ImgRaw&r=0",
+      "quantity": "1000",
+      "category": "somin",
+      "description": "hihi"
+    },
+    {
+      "id": "4sztsszef",
+      "name": "Áo sơ mi nam trắng đẹp công sở",
+      "price": "20000",
+      "img": "https://th.bing.com/th/id/R.0be99577aaeedd250003851e5773e9c2?rik=%2bmFFOvpx7Br4gg&pid=ImgRaw&r=0",
+      "quantity": "1000",
+      "category": "somin",
+      "description": "hihi"
+    },
+    {
+      "id": "4sztsszef",
+      "name": "Áo sơ mi nam trắng đẹp công sở",
+      "price": "20000",
+      "img": "https://th.bing.com/th/id/R.0be99577aaeedd250003851e5773e9c2?rik=%2bmFFOvpx7Br4gg&pid=ImgRaw&r=0",
+      "quantity": "1000",
+      "category": "somin",
+      "description": "hihi"
+    },
+    {
+      "id": "4sztsszef",
+      "name": "Áo sơ mi nam trắng đẹp công sở",
+      "price": "20000",
+      "img": "https://th.bing.com/th/id/R.0be99577aaeedd250003851e5773e9c2?rik=%2bmFFOvpx7Br4gg&pid=ImgRaw&r=0",
+      "quantity": "1000",
+      "category": "somin",
+      "description": "hihi"
+    }
+  ]
+}
